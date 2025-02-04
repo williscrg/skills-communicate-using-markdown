@@ -5,3 +5,6 @@
 ``` R
 print(5 + 4)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
